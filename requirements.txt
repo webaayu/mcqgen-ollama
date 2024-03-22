@@ -1,0 +1,7 @@
+langchain
+streamlit
+beautifulsoup4
+pandas
+langchain_community
+
+-e .
